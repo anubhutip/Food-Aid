@@ -1,0 +1,143 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+header {
+  background-color: #000;
+  color: #fff;
+  padding: 2rem;
+}
+
+button {
+  background-color: #4CAF50; /* Green background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  padding: 12px 24px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /* Change cursor on hover */
+  border-radius: 4px; /* Rounded corners */
+}
+
+/* Hover state */
+button:hover {
+  background-color: #3e8e41; /* Dark green background on hover */
+}
+
+.rightbutton {
+        text-align: right;
+        border: 0;
+        margin-right: 5px;
+        vertical-align: middle;
+      }
+
+input[type="text"] {
+  border: 2px solid #ccc; /* Set a border */
+  border-radius: 4px; /* Rounded corners */
+  padding: 12px 20px; /* Some padding */
+  margin: 8px 0; /* Add some margin */
+  box-sizing: border-box; /* Include padding and border in the element's total width and height */
+  font-size: 16px; /* Set a font size */
+}
+
+/* Focus state */
+input[type="text"]:focus{
+  border-color: #4CAF50; /* Change border color on focus */
+  outline: none; /* Remove default focus outline */
+}
+
+#heading1{
+  top:75%;
+}
+
+
+#Housesnearyou {
+  top:84%;
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  justify-content: space-between;
+  //margin-left: 35px;
+
+}
+
+#heading2{
+  top:150%;
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+}
+
+#Housesincity {
+
+  top:165%;
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  justify-content: space-between;
+  //margin-left: 35px;
+
+
+}
+img {
+
+  /*margin-right: 50px;*/ /* Add 10 pixels of margin on the right side of each image */
+  width: 450px; /* Set a width of 200 pixels for each image */
+  height: 300px; /* Set a height of 150 pixels for each image */
+  border-radius: 5px; /* Round the corners of each image by 5 pixels */
+
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav li {
+  margin: 0 0.5rem;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+main {
+  /*max-width: 1200px;*/
+  /*margin: 0 auto;*/
+  /*padding: 2rem;*/
+}
+
+#hero {
+  object-fit: cover;
+  position: :absolute;
+  top:0;
+  width:100%;
+  left:0;
+  right:0;
+  height: 300px;
+  background-image: url('https://images.pexels.com/photos/1343537/pexels-photo-1343537.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  color: #fff;
+  padding: 5rem 0;
+}
+
+#hero h1 {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+}
+
+.header-row{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 10px
+  margin-right: 10px
+}

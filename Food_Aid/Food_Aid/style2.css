@@ -1,0 +1,49 @@
+.container-1{
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #D2E2E2;
+  text-align: center;
+}
+.container-2{
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #EDF3F5;
+  text-align: center;
+}
+.container-1 div{
+  padding: 10px;
+}
+/*Setting the flex to 3 gives three portions of the page to this class*/
+.box-1{
+  flex: 3;
+  order: 1;
+}
+/*Setting the flex to 1 gives one portion of the page to this class*/
+.box-2{
+  flex: 1;
+  order: 2;
+}
+
+.container-2 div{
+  padding: 10px;
+}
+/*Setting the flex to 1 gives one portion of the page to this class*/
+.box-3{
+  flex: 1;
+}
+/*Setting the flex to 3 gives three portions of the page to this class*/
+
+.box-4{
+  flex: 3;
+}
+
+p{
+  vertical-align: center;
+}
+
+#image1_label{
+  color: darkblue;
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+}

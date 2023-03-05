@@ -1,0 +1,107 @@
+Date,Time,Restaurant,Meal,Food Item,Weight (lbs),Reason for Waste,Disposal Method,Donation Destination
+01-02-2023,12:00 PM,The Green Table,Lunch,Roasted Vegetables,1.2,Overproduction,Composting,City Food Bankk
+01-02-2023,12:00 PM,The Green Table,Lunch,Chicken Caesar Salad,0.8,Plate Waste,Trash,City Food Bank
+01-02-2023,12:00 PM,The Green Table,Lunch,Garlic Bread,0.3,Expired Food,Trash,N/A
+01-02-2023,12:00 PM,The Green Table,Lunch,Brownie,0.2,Overproduction,Composting,N/A
+01-02-2023,12:00 PM,The Green Table,Lunch,Lemonade,0.4,Overproduction,Trash,N/A
+01-02-2023,4:00 PM,The Green Table,Dinner,Grilled Steak,0.6,Plate Waste,Trash,N/A
+01-02-2023,4:00 PM,The Green Table,Dinner,Mashed Potatoes,0.3,Overproduction,Trash,N/A
+01-02-2023,4:00 PM,The Green Table,Dinner,Mixed Vegetables,0.7,Plate Waste,Trash,N/A
+02-02-2023,9:00 AM,The Red Spoon,Breakfast,Omelette,0.5,Plate Waste,Composting,N/A
+02-02-2023,9:00 AM,The Red Spoon,Breakfast,Toast,0.2,Overproduction,Composting,City Food Bank
+02-02-2023,9:00 AM,The Red Spoon,Breakfast,Coffee,0.1,Overproduction,Trash,N/A
+02-02-2023,1:00 PM,The Blue Plate,Lunch,Chicken Stir-Fry,1,Overproduction,Trash,N/A
+02-02-2023,1:00 PM,The Blue Plate,Lunch,Brown Rice,0.4,Plate Waste,Composting,City Food Bank
+02-02-2023,1:00 PM,The Blue Plate,Lunch,Vegetable Soup,0.6,Overproduction,Composting,N/A
+02-02-2023,6:30 PM,The Blue Plate,Dinner,Seared Tuna,0.4,Plate Waste,Composting,N/A
+01-02-2023,12:00 PM,The Grilled Cheese,Lunch,Classic Grilled Cheese,0.2,Plate Waste,Composting,N/A
+01-02-2023,12:00 PM,The Grilled Cheese,Lunch,Tomato Soup,0.3,Overproduction,Composting,N/A
+01-02-2023,12:00 PM,The Grilled Cheese,Lunch,Caesar Salad,0.1,Expired Food,Trash,N/A
+01-02-2023,12:00 PM,The Grilled Cheese,Lunch,Brownie,0.4,Overproduction,Composting,N/A
+01-02-2023,12:00 PM,The Grilled Cheese,Lunch,Lemonade,0.5,Overproduction,Composting,N/A
+01-02-2023,4:00 PM,The Grilled Cheese,Dinner,Caprese Sandwich,0.2,Plate Waste,Composting,N/A
+01-02-2023,4:00 PM,The Grilled Cheese,Dinner,Truffle Fries,0.3,Overproduction,Composting,City Food Bank
+01-02-2023,4:00 PM,The Grilled Cheese,Dinner,Fried Pickles,0.5,Plate Waste,Composting,City Food Bank
+02-02-2023,9:00 AM,The Taco Spot,Breakfast,Breakfast Burrito,0.6,Plate Waste,Trash,N/A
+02-02-2023,9:00 AM,The Taco Spot,Breakfast,Hashbrowns,0.2,Overproduction,Trash,City Food Bank
+02-02-2023,9:00 AM,The Taco Spot,Breakfast,Coffee,0.1,Overproduction,Trash,N/A
+02-02-2023,1:00 PM,The Italian Place,Lunch,Spaghetti Bolognese,0.8,Overproduction,Trash,N/A
+02-02-2023,1:00 PM,The Italian Place,Lunch,Caesar Salad,0.4,Plate Waste,Trash,N/A
+02-02-2023,1:00 PM,The Italian Place,Lunch,Minestrone Soup,0.5,Overproduction,Composting,N/A
+02-02-2023,6:30 PM,The Italian Place,Dinner,Chicken Parmesan,0.3,Plate Waste,Composting,City Food Bank
+01-03-2023,12:00 PM,Thai Palace,Lunch,Pad Thai,0.5,Plate Waste,Composting,N/A
+01-03-2023,12:00 PM,Thai Palace,Lunch,Tom Yum Soup,0.3,Overproduction,Composting,N/A
+01-03-2023,12:00 PM,Thai Palace,Lunch,Chicken Satay,0.2,Expired Food,Trash,N/A
+01-03-2023,12:00 PM,Thai Palace,Lunch,Mango Sticky Rice,0.4,Overproduction,Composting,N/A
+01-03-2023,12:00 PM,Thai Palace,Lunch,Thai Iced Tea,0.5,Overproduction,Composting,N/A
+01-03-2023,6:00 PM,Thai Palace,Dinner,Green Curry,0.4,Plate Waste,Composting,N/A
+01-03-2023,6:00 PM,Thai Palace,Dinner,Pineapple Fried Rice,0.3,Overproduction,Composting,N/A
+01-03-2023,6:00 PM,Thai Palace,Dinner,Spring Rolls,0.5,Plate Waste,Composting,N/A
+02-03-2023,8:00 AM,Cafe Latte,Breakfast,Avocado Toast,0.3,Plate Waste,Composting,N/A
+02-03-2023,8:00 AM,Cafe Latte,Breakfast,Bagel with Cream Cheese,0.2,Overproduction,Composting,N/A
+02-03-2023,8:00 AM,Cafe Latte,Breakfast,Cappuccino,0.1,Overproduction,Composting,N/A
+02-03-2023,12:00 PM,Mediterranean Bistro,Lunch,Falafel Wrap,0.6,Plate Waste,Composting,N/A
+02-03-2023,12:00 PM,Mediterranean Bistro,Lunch,Greek Salad,0.4,Plate Waste,Composting,N/A
+02-03-2023,12:00 PM,Mediterranean Bistro,Lunch,Lentil Soup,0.5,Overproduction,Composting,N/A
+02-03-2023,6:30 PM,Mediterranean Bistro,Dinner,Lamb Kebab,0.3,Plate Waste,Composting,N/A
+01-03-2023,12:00 PM,Bistro 18,Lunch,Caesar Salad,0.4,Plate Waste,Composting,N/A
+01-03-2023,12:00 PM,Bistro 18,Lunch,French Onion Soup,0.5,Overproduction,Composting,N/A
+01-03-2023,12:00 PM,Bistro 18,Lunch,Grilled Salmon,0.3,Expired Food,Trash,N/A
+01-03-2023,12:00 PM,Bistro 18,Lunch,Truffle Fries,0.2,Plate Waste,Composting,N/A
+01-03-2023,12:00 PM,Bistro 18,Lunch,Red Wine,0.4,Overproduction,Composting,N/A
+01-03-2023,6:00 PM,Bistro 18,Dinner,Steak Frites,0.5,Plate Waste,Composting,N/A
+01-03-2023,6:00 PM,Bistro 18,Dinner,Lobster Bisque,0.3,Overproduction,Composting,N/A
+01-03-2023,6:00 PM,Bistro 18,Dinner,Charcuterie Board,0.6,Plate Waste,Composting,N/A
+02-03-2023,8:00 AM,The Breakfast Bar,Breakfast,Pancakes,0.4,Plate Waste,Composting,N/A
+02-03-2023,8:00 AM,The Breakfast Bar,Breakfast,Pancakes,0.4,Plate Waste,Composting,N/A
+02-03-2023,8:00 AM,The Breakfast Bar,Breakfast,Bacon and Eggs,0.5,Overproduction,Trash,City Food Bank
+02-03-2023,8:00 AM,The Breakfast Bar,Breakfast,Coffee,0.2,Overproduction,Trash,N/A
+02-03-2023,12:00 PM,Sushi Sake,Lunch,California Roll,0.3,Plate Waste,Trash,N/A
+02-03-2023,12:00 PM,Sushi Sake,Lunch,Chicken Teriyaki,0.4,Plate Waste,Trash,N/A
+02-03-2023,12:00 PM,Sushi Sake,Lunch,Miso Soup,0.2,Overproduction,Trash,N/A
+02-03-2023,6:30 PM,Sushi Sake,Dinner,Sashimi Platter,0.6,Plate Waste,Trash,
+01-03-2023,12:00 PM,The Red Lantern,Lunch,Sweet and Sour Pork,0.4,Plate Waste,Trash,N/A
+01-03-2023,12:00 PM,The Red Lantern,Lunch,Hot and Sour Soup,0.3,Overproduction,Composting,N/A
+01-03-2023,12:00 PM,The Red Lantern,Lunch,Chicken Chow Mein,0.2,Expired Food,Trash,N/A
+01-03-2023,12:00 PM,The Red Lantern,Lunch,Vegetable Fried Rice,0.3,Plate Waste,Composting,N/A
+01-03-2023,12:00 PM,The Red Lantern,Lunch,Green Tea,0.4,Overproduction,Composting,N/A
+01-03-2023,6:00 PM,The Red Lantern,Dinner,General Tso's Chicken,0.5,Plate Waste,Composting,N/A
+01-03-2023,6:00 PM,The Red Lantern,Dinner,Wonton Soup,0.2,Overproduction,Composting,N/A
+01-03-2023,6:00 PM,The Red Lantern,Dinner,Beef and Broccoli,0.6,Plate Waste,Composting,N/A
+02-03-2023,8:00 AM,The Breakfast Place,Breakfast,Blueberry Pancakes,0.4,Plate Waste,Composting,N/A
+02-03-2023,8:00 AM,The Breakfast Place,Breakfast,Omelette,0.5,Overproduction,Composting,N/A
+02-03-2023,8:00 AM,The Breakfast Place,Breakfast,Coffee,0.2,Overproduction,Composting,N/A
+02-03-2023,12:00 PM,Italian Express,Lunch,Margherita Pizza,0.3,Plate Waste,Composting,N/A
+02-03-2023,12:00 PM,Italian Express,Lunch,Spaghetti Carbonara,0.4,Plate Waste,Composting,N/A
+02-03-2023,12:00 PM,Italian Express,Lunch,Minestrone Soup,0.2,Overproduction,Composting,N/A
+02-03-2023,6:30 PM,Italian Express,Dinner,Lasagna,0.6,Plate Waste,Composting,N/A
+01-03-2023,12:00 PM,The Blue Door,Lunch,Grilled Chicken Salad,0.3,Plate Waste,Composting,N/A
+01-03-2023,12:00 PM,The Blue Door,Lunch,Tomato Soup,0.2,Overproduction,Composting,N/A
+01-03-2023,12:00 PM,The Blue Door,Lunch,Tuna Melt,0.4,Expired Food,Trash,N/A
+01-03-2023,12:00 PM,The Blue Door,Lunch,French Fries,0.5,Plate Waste,Composting,N/A
+01-03-2023,12:00 PM,The Blue Door,Lunch,Sweet Tea,0.2,Overproduction,Composting,N/A
+01-03-2023,6:00 PM,The Blue Door,Dinner,Pan-Seared Salmon,0.6,Plate Waste,Composting,N/A
+01-03-2023,6:00 PM,The Blue Door,Dinner,Lobster Bisque,0.3,Overproduction,Composting,N/A
+01-03-2023,6:00 PM,The Blue Door,Dinner,Beef Tenderloin,0.7,Plate Waste,Composting,N/A
+02-03-2023,8:00 AM,The Breakfast Spot,Breakfast,Pancakes,0.4,Plate Waste,Trash,N/A
+02-03-2023,8:00 AM,The Breakfast Spot,Breakfast,Breakfast Sandwich,0.5,Overproduction,Trash,N/A
+02-03-2023,8:00 AM,The Breakfast Spot,Breakfast,Orange Juice,0.2,Overproduction,Trash,N/A
+02-03-2023,12:00 PM,The Italian Kitchen,Lunch,Chicken Parmesan,0.3,Plate Waste,Trash,N/A
+02-03-2023,12:00 PM,The Italian Kitchen,Lunch,Spaghetti and Meatballs,0.4,Plate Waste,Trash,N/A
+02-03-2023,12:00 PM,The Italian Kitchen,Lunch,Caesar Salad,0.2,Overproduction,Composting,N/A
+02-03-2023,6:30 PM,The Italian Kitchen,Dinner,Pizza,0.6,Plate Waste,Trash,N/A
+01-03-2023,12:00 PM,The Green Table,Lunch,Garden Salad,0.2,Plate Waste,Trash,N/A
+01-03-2023,12:00 PM,The Green Table,Lunch,Roasted Vegetable Bowl,0.4,Plate Waste,Composting,N/A
+01-03-2023,12:00 PM,The Green Table,Lunch,Avocado Toast,0.3,Overproduction,Composting,N/A
+01-03-2023,12:00 PM,The Green Table,Lunch,Iced Tea,0.2,Overproduction,Composting,N/A
+01-03-2023,6:00 PM,The Green Table,Dinner,Grilled Salmon,0.6,Plate Waste,Trash,N/A
+01-03-2023,6:00 PM,The Green Table,Dinner,Quinoa Bowl,0.4,Overproduction,Composting,N/A
+01-03-2023,6:00 PM,The Green Table,Dinner,Lemon Rosemary Chicken,0.7,Expired Food,Trash,City Food Bank
+01-03-2023,6:00 PM,The Green Table,Dinner,House Red Wine,0.3,Overproduction,Composting,N/A
+02-03-2023,8:00 AM,The Breakfast Club,Breakfast,Eggs Benedict,0.3,Plate Waste,Composting,N/A
+02-03-2023,8:00 AM,The Breakfast Club,Breakfast,Belgian Waffle,0.4,Overproduction,Trash,N/A
+02-03-2023,8:00 AM,The Breakfast Club,Breakfast,Orange Juice,0.2,Overproduction,Trash,N/A
+02-03-2023,12:00 PM,The Italian Kitchen,Lunch,Margherita Pizza,0.3,Plate Waste,Composting,N/A
+02-03-2023,12:00 PM,The Italian Kitchen,Lunch,Lasagna,0.4,Plate Waste,Composting,N/A
+02-03-2023,12:00 PM,The Italian Kitchen,Lunch,Caesar Salad,0.2,Overproduction,Trash,N/A
+02-03-2023,6:30 PM,The Italian Kitchen,Dinner,Chicken Parmesan,0.6,Plate Waste,Trash,N/A
